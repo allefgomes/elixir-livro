@@ -1,0 +1,6 @@
+[book]
+authors = ["Allef Gomes"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Livro de Elixir"
