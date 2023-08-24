@@ -1,6 +1,6 @@
 # Elixir livro
 
-Este é um projeto para escrever um livro em Português sobre a linguagem Elixir. O conteúdo do livro está disponível [aqui](https://allefgomes.com/elixir-livro/).
+Este é um projeto para escrever um livro em Português sobre a linguagem Elixir. O conteúdo do livro está disponível [aqui](https://allefgomes.com/elixir-livro).
 
 ## Capítulos
 - Quem é elixir? (feito)
