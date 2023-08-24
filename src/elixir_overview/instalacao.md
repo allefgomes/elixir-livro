@@ -1,4 +1,4 @@
-# Básico de elixir
+# Instalação
 
 Para podermos de fato começar a utilizar o elixir, precisamos primeiro instalar ou utilizar um docker, mas no nosso caso, iremos instalar mesmo.
 
@@ -60,4 +60,5 @@ asdf install elixir 1.14.4-otp-25
 ```
 
 Caso tenha ficado alguma dúvida, o link para instalação do Elixir via asdf você pode ver [aqui](https://github.com/asdf-vm/asdf-elixir)
+
 

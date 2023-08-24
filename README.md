@@ -3,10 +3,13 @@
 Este é um projeto para escrever um livro em Português sobre a linguagem Elixir. O conteúdo do livro está disponível [aqui](allefgomes.com/elixir-livro/).
 
 ## Capítulos
-- Quem é elixir? (Feito)
+- Quem é elixir? (feito)
+  - Empresas que utilizam elixir (feito)
+  - Comunidades de elixir no Brasil (feito)
+- Programação Funcional com elixir (em andamento)
+  - Conhecendo Programação Funcional (em andamento)
 - Instalação do Elixir (Feito)
-- Programação Funcional com elixir
-- Básico de Elixir
+  - Básico de Elixir
 - Módulos e Funções no Elixir
 - OTP, o que é?
 
